@@ -1,4 +1,4 @@
-# Analyzing Twitter trends on Eskom
+# Analyzing Twitter Trends on Eskom
 
 ## TABLE OF CONTENTS
 
