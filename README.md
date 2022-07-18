@@ -105,27 +105,27 @@ Sentiment analysis is a supervised machine learning problem with different types
 ## DATA-VISUALIZATION 
 
 <h4>Sentiment Distribution</h4>
-<img src="https://github.com/ScientificGuitar/Analyzing-Twitter-Trends-On-Eskom/blob/master/plots/Sentiment%20distribution.jpg" style="width:500px;height:200px;">
+[Sentiment Distribution](../plots/Sentiment distribution.jpg)
 <hr>
 
 <h4>Sentiment volume by day</h4>
-<img src="https://github.com/ScientificGuitar/Analyzing-Twitter-Trends-On-Eskom/blob/master/plots/Sentiment%20volume%20by%20day.jpg" style="width:500px;height:200px;">
+[Sentiment volume by day](../plots/Sentiment volume by day.jpg)
 <hr>
 
 <h4>Sentiment volume by week</h4>
-<img src="https://github.com/ScientificGuitar/Analyzing-Twitter-Trends-On-Eskom/blob/master/plots/Sentiment%20volume%20by%20week.jpg" style="width:500px;height:200px;">
+[Sentiment volume by week](../plots/Sentiment volume by week.jpg)
 <hr>
 
 <h4>Topic Distribution</h4>
-<img src="https://github.com/ScientificGuitar/Analyzing-Twitter-Trends-On-Eskom/blob/master/plots/Topic%20distribution.jpg" style="width:500px;height:200px;">
+[Topic Distribution](../plots/Topic Distribution.jpg)
 <hr>
 
 <h4>Topic volume by day</h4>
-<img src="https://github.com/ScientificGuitar/Analyzing-Twitter-Trends-On-Eskom/blob/master/plots/Topic%20volume%20by%20day.jpg" style="width:500px;height:200px;">
+[Topic volume by day](../plots/Topic volume by day.jpg)
 <hr>
 
 <h4>Topic volume by week</h4>
-<img src="https://github.com/ScientificGuitar/Analyzing-Twitter-Trends-On-Eskom/blob/master/plots/Topic%20volume%20by%20week.jpg" style="width:500px;height:200px;">
+[Topic volume by week](../plots/Topic volume by week.jpg)
 <hr>
 
 ## RESULTS 
