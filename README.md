@@ -105,27 +105,27 @@ Sentiment analysis is a supervised machine learning problem with different types
 ## DATA-VISUALIZATION 
 
 <h4>Sentiment Distribution</h4>
-[Sentiment Distribution](../plots/Sentiment distribution.jpg)
+[Sentiment Distribution](https://github.com/ScientificGuitar/Analyzing-Twitter-Trends-On-Eskom/blob/master/plots/Sentiment%20distribution.jpg)
 <hr>
 
 <h4>Sentiment volume by day</h4>
-[Sentiment volume by day](../plots/Sentiment volume by day.jpg)
+[Sentiment volume by day](https://github.com/ScientificGuitar/Analyzing-Twitter-Trends-On-Eskom/blob/master/plots/Sentiment%20volume%20by%20day.jpg)
 <hr>
 
 <h4>Sentiment volume by week</h4>
-[Sentiment volume by week](../plots/Sentiment volume by week.jpg)
+[Sentiment volume by week](https://github.com/ScientificGuitar/Analyzing-Twitter-Trends-On-Eskom/blob/master/plots/Sentiment%20volume%20by%20week.jpg)
 <hr>
 
 <h4>Topic Distribution</h4>
-[Topic Distribution](../plots/Topic Distribution.jpg)
+[Topic Distribution](https://github.com/ScientificGuitar/Analyzing-Twitter-Trends-On-Eskom/blob/master/plots/Topic%20distribution.jpg)
 <hr>
 
 <h4>Topic volume by day</h4>
-[Topic volume by day](../plots/Topic volume by day.jpg)
+[Topic volume by day](https://github.com/ScientificGuitar/Analyzing-Twitter-Trends-On-Eskom/blob/master/plots/Topic%20volume%20by%20day.jpg)
 <hr>
 
 <h4>Topic volume by week</h4>
-[Topic volume by week](../plots/Topic volume by week.jpg)
+[Topic volume by week](https://github.com/ScientificGuitar/Analyzing-Twitter-Trends-On-Eskom/blob/master/plots/Topic%20volume%20by%20week.jpg)
 <hr>
 
 ## RESULTS 
