@@ -41,7 +41,7 @@ With 2022 on track to be the worst year for South Africa for load shedding, the 
   </tr>
   <tr>
     <td>Data Pre-processing</td>
-    <td>Remove punctuation, stopwords, URLs, emojis, , mentions, lemmatization</td> 
+    <td>Remove punctuation, stopwords, URLs, emojis, mentions, lemmatization</td> 
     <td>re, nltk, pandas, numpy</td>
   </tr>
   <tr>
@@ -70,61 +70,61 @@ With 2022 on track to be the worst year for South Africa for load shedding, the 
 
 ## DATA-COLLECTION 
 
-<b> Data Collection: Identifying Eskom Content </b>
+<h4>Data Collection: Identifying Eskom Content</h4>
 
-<li> Package used: snscrape</li>
+<li>Package used: snscrape</li>
 <li>Language: English</li>
 <li>Keywords: eskom</li>
 <li>Timeframe: 09 March 2022 to 16 July 2022</li>
 <li>Number of tweets collected = 310689</li>
 
-<b> Data Coverage: </b>
+<h4>Data Coverage:</h4>
 With eskom as the search terms, I believe that the keyword provides reasonable coverage and is representative of tweets communicating about eskom and loadshedding <br>
 
 <hr>
 
 ## DATA-PREPROCESSING
 
-<b> Data Cleaning </b> 
+<h4>Data Cleaning</h4> 
 
-<li> Removed puctuation, URLS, mentions, emojis using library re</li> 
-<li> Removed stopwords using nltk </li> 
-<li> Lemmatization of Tweets using nltk.WordNetLemmatizer() </li>
+<li>Removed puctuation, URLS, mentions, emojis using library re</li> 
+<li>Removed stopwords using nltk</li> 
+<li>Lemmatization of Tweets using nltk.WordNetLemmatizer()</li>
 
 <hr>
 
 ## DATA-MODELING
 
-<b> Unsupervised LDA </b>
+<h4>Unsupervised LDA</h4>
 To understand the abstract topics hidden in the tweets unsupervised LDA technique was implemented using the library 'pyLDAvis'. 8 different topics were discovered with similar cluster sizes and slight overlapping in clusters.
-<b> Sentiment Analysis </b>
+<h4>Sentiment Analysis</h4>
 Sentiment analysis is a supervised machine learning problem with different types of analysis. I considered a fine-grained sentiment classification with five levels of sentiments - overly positive, positive, neutral, negative, and overly negative. VADER (Valence Aware Dictionary for Sentiment Reasoning) was used as a rule-based model to examine the impact of loadshedding on the attitude of Twitter users. 
 
 <hr>
 
 ## DATA-VISUALIZATION 
 
-<b> Sentiment Distribution </b>
+<h4>Sentiment Distribution</h4>
 <img src="" style="width:500px;height:200px;">
 <hr>
 
-<b> Sentiment volume by day </b>
+<h4>Sentiment volume by day</h4>
 <img src="" style="width:500px;height:200px;">
 <hr>
 
-<b> Sentiment volume by week </b>
+<h4>Sentiment volume by week</h4>
 <img src="" style="width:500px;height:200px;">
 <hr>
 
-<b> Topic Distribution </b>
+<h4>Topic Distribution</h4>
 <img src="" style="width:500px;height:200px;">
 <hr>
 
-<b> Topic volume by day </b>
+<h4>Topic volume by day</h4>
 <img src="" style="width:500px;height:200px;">
 <hr>
 
-<b> Topic volume by week </b>
+<h4>Topic volume by week</h4>
 <img src="" style="width:500px;height:200px;">
 <hr>
 
