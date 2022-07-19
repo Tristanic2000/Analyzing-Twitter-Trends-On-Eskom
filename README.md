@@ -105,27 +105,27 @@ Sentiment analysis is a supervised machine learning problem with different types
 ## DATA-VISUALIZATION 
 
 <h4>Sentiment Distribution</h4>
-![Sentiment Distribution](plots/Sentiment-distribution.jpg)
+![Sentiment Distribution](./plots/Sentiment-distribution.jpg)
 <hr>
 
 <h4>Sentiment volume by day</h4>
-![Sentiment volume by day](plots/Sentiment-volume-by-day.jpg)
+![Sentiment volume by day](./plots/Sentiment-volume-by-day.jpg)
 <hr>
 
 <h4>Sentiment volume by week</h4>
-![Sentiment volume by week](plots/Sentiment-volume-by-week.jpg)
+![Sentiment volume by week](./plots/Sentiment-volume-by-week.jpg)
 <hr>
 
 <h4>Topic Distribution</h4>
-![Topic Distribution](plots/Topic-distribution.jpg)
+![Topic Distribution](./plots/Topic-distribution.jpg)
 <hr>
 
 <h4>Topic volume by day</h4>
-![Topic volume by day](plots/Topic-volume-by-day.jpg)
+![Topic volume by day](./plots/Topic-volume-by-day.jpg)
 <hr>
 
 <h4>Topic volume by week</h4>
-![Topic volume by week](plots/Topic-volume-by-week.jpg)
+![Topic volume by week](./plots/Topic-volume-by-week.jpg)
 <hr>
 
 ## RESULTS 
